@@ -13,14 +13,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kazaferixm/api-rainy.git"
+    "url": "https://github.com/kazaferixm/api-light.git"
   },
   "author": "kazaferixm",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kazaferixm/api-rainy/issues"
+    "url": "https://github.com/kazaferixm/api-light/issues"
   },
-  "homepage": "https://github.com/kazaferixm/api-rainy#readme",
+  "homepage": "https://github.com/kazaferixm/api-light#readme",
   "dependencies": {
     "@libphamton/api-client-x": "^1.0.7",
     "@libphamton/chatfanpage": "^1.0.1",
